@@ -10,26 +10,26 @@
         {
             "src": "https://1.bp.blogspot.com/-9SIr7tedKJU/YKR3oOU08SI/AAAAAAAAAK8/hokkTQXKylAXHq5GhIWhJFjuqFc5DntkgCNcBGAsYHQ/s0/icon-192x192.png",
             "sizes": "192x192",
-            "type": "image/png"
-			"purpose": "maskable any"
+            "type": "image/png",
+	    "purpose": "maskable any"
         },
         {
             "src": "https://1.bp.blogspot.com/-F-BJkAcgZbg/YKR3oONZdAI/AAAAAAAAALA/LvPvdTs8qvkJ1XgvJulUp27cU5g4_uQDwCNcBGAsYHQ/s0/icon-256x256.png",
             "sizes": "256x256",
-            "type": "image/png"
-			"purpose": "maskable any"
+            "type": "image/png",
+	    "purpose": "maskable any"
         },
         {
             "src": "https://1.bp.blogspot.com/-LypjRHX9K9E/YKR3oGmgqQI/AAAAAAAAAK4/mc-KgqoIwQ0Nxd5-zn86c4n9eDAOJLzigCNcBGAsYHQ/s0/icon-384x384.png",
             "sizes": "384x384",
-            "type": "image/png"
-			"purpose": "maskable any"
+            "type": "image/png",
+	    "purpose": "maskable any"
         },
         {
             "src": "https://1.bp.blogspot.com/-ezKT-SZJVUI/YKR3ohPxaCI/AAAAAAAAALE/WDGLlRtXdLAX6XuYElcoGSPGA40XdQWlgCNcBGAsYHQ/s0/icon-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
-			"purpose": "maskable any"
+            "type": "image/png",
+	    "purpose": "maskable any"
         }
     ]
 }
